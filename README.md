@@ -159,8 +159,8 @@ public:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=smart-irrigation-system&theme=tokyonight)](https://github.com/Ramahabir/solar-power-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=ai-powered-security-camera&theme=tokyonight)](https://github.com/Ramahabir/finguard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=solar-power-website&theme=tokyonight)](https://github.com/Ramahabir/solar-power-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=finguard&theme=tokyonight)](https://github.com/Ramahabir/finguard)
 
 </div>
 
