@@ -180,7 +180,7 @@ public:
 <div align="center">
 
 ```
-🌙 Best debugging happens at 12 AM with [ Comfortable in Silence by Manila Grey ](https://www.youtube.com/watch?v=ulOhandn5N4&list=RDulOhandn5N4&start_radio=1)
+🌙 Best debugging happens at 12 AM with song Comfortable in Silence by Manila Grey
 🎯 Can explain how transistors work using food analogies
 🤖 Dreams of tiny robots running neural networks
 🔧 Has a collection of development boards (and actually uses them!)
