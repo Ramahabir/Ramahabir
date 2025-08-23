@@ -164,8 +164,6 @@ public:
 
 </div>
 
-> 💡 **Note**: Replace the repo names above with your actual project repositories
-
 ---
 
 ## 🎯 2024 Goals & Achievements
@@ -182,11 +180,10 @@ public:
 <div align="center">
 
 ```
-🌙 Best debugging happens at 2 AM with coffee
+🌙 Best debugging happens at 12 AM with [ Comfortable in Silence by Manila Grey ](https://www.youtube.com/watch?v=ulOhandn5N4&list=RDulOhandn5N4&start_radio=1)
 🎯 Can explain how transistors work using food analogies
 🤖 Dreams of tiny robots running neural networks
 🔧 Has a collection of development boards (and actually uses them!)
-☕ Coffee-to-code ratio: 1:∞
 ```
 
 </div>
