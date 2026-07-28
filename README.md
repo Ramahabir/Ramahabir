@@ -2,218 +2,120 @@
 
 # 👋 Hi, I'm Rama Rizky Belrouzy Habir
 
-### 🎓 Electrical Engineering Student | 🔌 Embedded Systems Enthusiast | 🤖 AI Explorer
+### 🎓 Electrical Engineering Student | 🤖 Robotics | 📡 Telecommunications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;Microcontroller+Programming;IoT+%26+Hardware+Integration;AI+%26+Computer+Vision+Learner" alt="Typing SVG" />
+I build embedded systems that help machines **sense, communicate, and act**.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Robotics+%26+Embedded+Systems;Wireless+Communication;Microcontroller+Programming;Connected+and+Intelligent+Machines" alt="Typing animation">
 
 </div>
-
----
 
 ## 🚀 About Me
 
-I'm passionate about bridging the gap between **hardware and software**, specializing in embedded systems while exploring the fascinating world of artificial intelligence. My journey involves getting microcontrollers to work seamlessly with complex algorithms and modern development practices.
+I'm an Electrical Engineering student focused on **robotics and telecommunications**, with embedded systems connecting both fields.
 
-```cpp
-class ElectricalEngineer {
-public:
-    std::string name = "Rama Rizky Belrouzy Habir";
-    std::vector<std::string> interests = {
-        "Embedded Systems", "IoT Development", 
-        "Computer Vision", "Machine Learning"
-    };
-    std::string currentFocus = "AI-powered embedded solutions";
-    
-    void writeCode() {
-        while(learning) {
-            code();
-            debug();
-            innovate();
-        }
-    }
-};
-```
+I enjoy building systems that combine microcontrollers, sensors, actuators, communication networks, and intelligent software. My current goal is to develop connected robots capable of sensing their environment, making decisions, and communicating reliably.
 
----
+- 🤖 Exploring mobile robotics, control, and autonomous systems
+- 📡 Learning wireless communication, networking, and signal processing
+- 🔌 Building embedded systems with STM32, ESP32, and Arduino
+- 🧠 Applying computer vision and machine learning where they benefit robotics
+- 🌱 Currently learning ROS 2, digital communications, and real-time systems
 
-## ⚡ Technical Arsenal
+## 🎯 Main Focus
 
-### 🛠️ **Embedded & Hardware**
-<div align="center">
+| 🤖 Robotics | 📡 Telecommunications |
+|---|---|
+| Mobile robot development | Digital communication systems |
+| Sensors and actuator integration | Wireless communication |
+| Motion and feedback control | Signal processing fundamentals |
+| Autonomous navigation | RF and antenna fundamentals |
+| Computer vision | IoT and telemetry networks |
+| ROS 2 and simulation | LoRa, Wi-Fi, Bluetooth, and MQTT |
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## ⚡ Skill Stack
 
-</div>
+### Embedded Systems & Hardware
 
-### 🤖 **AI & Machine Learning**
-<div align="center">
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00599C?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Robotics, AI & Computer Vision
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-Learning-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### 🛠️ **Development Tools**
-<div align="center">
+### Telecommunications & Connectivity
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0078D4?style=flat-square&logo=wifi&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-1E88E5?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
+![I²C](https://img.shields.io/badge/I²C-555555?style=flat-square)
+![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
+![CAN](https://img.shields.io/badge/CAN-555555?style=flat-square)
 
-</div>
+### IoT, Cloud & Development Tools
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## 💼 What I Specialize In
+## 🌱 Current Learning Roadmap
 
-<table>
-<tr>
-<td width="50%">
+| Area | Currently Learning | Goal |
+|---|---|---|
+| Robotics | ROS 2, kinematics, control | Build an autonomous mobile robot |
+| Telecommunications | Modulation, DSP, wireless systems | Build reliable communication links |
+| Embedded Systems | STM32, FreeRTOS, modern C++ | Develop real-time robot firmware |
+| Computer Vision | OpenCV, edge AI | Add visual perception to robots |
+| IoT | MQTT, LoRa, cloud integration | Create remote telemetry systems |
 
-### 🔌 **Embedded Systems**
-- Microcontroller programming (STM32, ESP32, Arduino)
-- Real-time operating systems (FreeRTOS)
-- Sensor integration & data acquisition
-- Communication protocols (I2C, SPI, UART, CAN)
-- Power management optimization
+## 🏆 Featured Projects
 
-</td>
-<td width="50%">
+> I am currently developing my portfolio around robotics and telecommunications.
 
-### 🌐 **IoT Development**
-- Wireless communication (WiFi, Bluetooth, LoRa)
-- Cloud integration (AWS IoT, Google Cloud)
-- Edge computing solutions
-- Remote monitoring systems
-- Data visualization dashboards
+- **Autonomous Mobile Robot** — sensors, motor control, obstacle avoidance, and navigation
+- **Wireless Telemetry System** — long-range sensor communication using ESP32 or LoRa
+- **Computer Vision Robot** — real-time object detection and robot control
+- **Software-Defined Radio Experiments** — signal visualization and digital modulation
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 **AI Integration**
-- Computer vision for embedded systems
-- TinyML and edge AI deployment
-- Object detection and recognition
-- Machine learning model optimization
-- AI-powered automation
-
-</td>
-<td width="50%">
-
-### ⚙️ **System Design**
-- Hardware-software co-design
-- PCB design and prototyping
-- System architecture planning
-- Performance optimization
-- Debugging and testing methodologies
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Current Learning Journey
-
-<div align="center">
-
-| 🎯 **Focus Area** | 📚 **Learning** | 🚀 **Goal** |
-|:---:|:---:|:---:|
-| **Computer Vision** | OpenCV, Image Processing | Real-time object detection on MCUs |
-| **Machine Learning** | Scikit-learn, Edge AI | Deploy ML models on embedded devices |
-| **Advanced C++** | Modern C++17/20, Design Patterns | Write more efficient firmware |
-| **Cloud Integration** | Azure IoT, MQTT, Edge Computing | Build scalable IoT solutions |
-
-</div>
-
----
+<!-- Add repository links when these projects are ready. -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramahabir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramahabir&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ramahabir&show_icons=true&theme=tokyonight&hide_border=true" alt="Rama's GitHub statistics"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramahabir&layout=compact&theme=tokyonight&hide_border=true" alt="Rama's most-used languages">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramahabir&theme=tokyonight&hide_border=true)
 
 </div>
 
-<div align="center">
+## 🤝 Let's Connect
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ramahabir&theme=tokyonight)
+I'm interested in collaborating on **robotics, embedded systems, wireless communication, telecommunications, and intelligent IoT projects**.
 
-</div>
-
----
-
-## 🏆 Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-rizky-belrouzy-habir-a354b9185/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rizkyhabir88@gmail.com)
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=solar-power-website&theme=tokyonight)](https://github.com/Ramahabir/solar-power-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ramahabir&repo=finguard&theme=tokyonight)](https://github.com/Ramahabir/finguard)
+### 💬 “Building systems that sense, communicate, and act.”
 
-</div>
-
----
-
-## 🎯 2024 Goals & Achievements
-
-- 🔥 **Completed**: Basic TensorFlow Lite deployment on ESP32
-- 🚀 **In Progress**: Building an AI-powered IoT security system
-- 🎯 **Next Up**: Contributing to open-source embedded ML projects
-- 📈 **Target**: 50+ GitHub contributions this year
-
----
-
-## 💭 Fun Facts
-
-<div align="center">
-
-```
-🌙 Best debugging happens at 12 AM with song Comfortable in Silence by Manila Grey
-🎯 Can explain how transistors work using food analogies
-🤖 Dreams of tiny robots running neural networks
-🔧 Has a collection of development boards (and actually uses them!)
-```
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-rizky-belrouzy-habir-a354b9185/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizkyhabir88@gmail.com)
-
-</div>
-
-<div align="center">
-
-### 💬 "Making hardware think smarter, one line of code at a time"
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ramahabir&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Ramahabir?color=blue&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ **From [Ramahabir](https://github.com/Ramahabir) with ❤️**
-
-*"In the intersection of electrons and algorithms, magic happens"*
+![Profile Views](https://komarev.com/ghpvc/?username=Ramahabir&color=0A66C2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Ramahabir?color=blue&style=flat-square)
 
 </div>
