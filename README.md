@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Rama Rizky Belrouzy Habir
+#  Hi, I'm Rama Rizky Belrouzy Habir
 
-### 🎓 Electrical Engineering Student | 🤖 Robotics | 📡 Telecommunications
+###  Electrical Engineering Student |  Robotics |  Telecommunications
 
 I build embedded systems that help machines **sense, communicate, and act**.
 
@@ -10,30 +10,19 @@ I build embedded systems that help machines **sense, communicate, and act**.
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm an Electrical Engineering student focused on **robotics and telecommunications**, with embedded systems connecting both fields.
 
 I enjoy building systems that combine microcontrollers, sensors, actuators, communication networks, and intelligent software. My current goal is to develop connected robots capable of sensing their environment, making decisions, and communicating reliably.
 
-- 🤖 Exploring mobile robotics, control, and autonomous systems
-- 📡 Learning wireless communication, networking, and signal processing
-- 🔌 Building embedded systems with STM32, ESP32, and Arduino
-- 🧠 Applying computer vision and machine learning where they benefit robotics
-- 🌱 Currently learning ROS 2, digital communications, and real-time systems
+-  Exploring mobile robotics, control, and autonomous systems
+-  Learning wireless communication, networking, and signal processing
+-  Building embedded systems with STM32, ESP32, and Arduino
+-  Applying computer vision and machine learning where they benefit robotics
+-  Currently learning ROS 2, digital communications, and real-time systems
 
-## 🎯 Main Focus
-
-| 🤖 Robotics | 📡 Telecommunications |
-|---|---|
-| Mobile robot development | Digital communication systems |
-| Sensors and actuator integration | Wireless communication |
-| Motion and feedback control | Signal processing fundamentals |
-| Autonomous navigation | RF and antenna fundamentals |
-| Computer vision | IoT and telemetry networks |
-| ROS 2 and simulation | LoRa, Wi-Fi, Bluetooth, and MQTT |
-
-## ⚡ Skill Stack
+##  Skill Stack
 
 ### Embedded Systems & Hardware
 
@@ -73,28 +62,8 @@ I enjoy building systems that combine microcontrollers, sensors, actuators, comm
 ![AWS IoT](https://img.shields.io/badge/AWS_IoT-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure IoT](https://img.shields.io/badge/Azure_IoT-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## 🌱 Current Learning Roadmap
 
-| Area | Currently Learning | Goal |
-|---|---|---|
-| Robotics | ROS 2, kinematics, control | Build an autonomous mobile robot |
-| Telecommunications | Modulation, DSP, wireless systems | Build reliable communication links |
-| Embedded Systems | STM32, FreeRTOS, modern C++ | Develop real-time robot firmware |
-| Computer Vision | OpenCV, edge AI | Add visual perception to robots |
-| IoT | MQTT, LoRa, cloud integration | Create remote telemetry systems |
-
-## 🏆 Featured Projects
-
-> I am currently developing my portfolio around robotics and telecommunications.
-
-- **Autonomous Mobile Robot** — sensors, motor control, obstacle avoidance, and navigation
-- **Wireless Telemetry System** — long-range sensor communication using ESP32 or LoRa
-- **Computer Vision Robot** — real-time object detection and robot control
-- **Software-Defined Radio Experiments** — signal visualization and digital modulation
-
-<!-- Add repository links when these projects are ready. -->
-
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -104,7 +73,7 @@ I enjoy building systems that combine microcontrollers, sensors, actuators, comm
 
 </div>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm interested in collaborating on **robotics, embedded systems, wireless communication, telecommunications, and intelligent IoT projects**.
 
@@ -113,7 +82,7 @@ I'm interested in collaborating on **robotics, embedded systems, wireless commun
 
 <div align="center">
 
-### 💬 “Building systems that sense, communicate, and act.”
+###  “Building systems that sense, communicate, and act.”
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ramahabir&color=0A66C2&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/Ramahabir?color=blue&style=flat-square)
